@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "GF Dancing Beat"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			],
+			"name": "GF Dancing Beat"
+		},
+		{
+			"offsets": [
+				-2,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "scared",
+			"loop": false,
+			"name": "GF Hands Up"
+		},
+		{
+			"offsets": [
+				1,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "swingLEFT",
+			"loop": false,
+			"name": "GF Swing Left"
+		},
+		{
+			"offsets": [
+				0,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "swingRIGHT",
+			"loop": false,
+			"name": "GF Swing Right"
+		},
+		{
+			"offsets": [
+				-3,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "getBat",
+			"loop": false,
+			"name": "GF Get Bat"
+		},
+		{
+			"offsets": [
+				0,
+				-6
+			],
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 24,
+			"anim": "danceLeftBat",
+			"loop": false,
+			"name": "GF Dancing Beat Bat"
+		},
+		{
+			"offsets": [
+				0,
+				-6
+			],
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			],
+			"fps": 24,
+			"anim": "danceRightBat",
+			"loop": false,
+			"name": "GF Dancing Beat Bat"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gf-bat",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

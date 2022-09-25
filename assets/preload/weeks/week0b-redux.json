@@ -1,0 +1,32 @@
+{
+	"storyName": "You got this",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "week0",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "001",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Tutorial",
+			"gf",
+			[
+				184,
+				141,
+				230
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Tutorial B",
+	"hiddenUntilUnlocked": false
+}

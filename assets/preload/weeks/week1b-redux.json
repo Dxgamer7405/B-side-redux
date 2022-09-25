@@ -1,0 +1,50 @@
+{
+	"storyName": "Rockstar",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "week1",
+	"weekBefore": "Week000",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Bopeebo",
+			"dad",
+			[
+				253,
+				203,
+				224
+			]
+		],
+		[
+			"Fresh",
+			"dad",
+			[
+				253,
+				203,
+				224
+			]
+		],
+		[
+			"Dadbattle",
+			"dad",
+			[
+				253,
+				203,
+				224
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week 1b"
+}

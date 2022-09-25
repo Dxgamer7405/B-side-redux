@@ -1,0 +1,50 @@
+{
+	"storyName": "Biker gang",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "week7",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"ugh",
+			"tankman",
+			[
+				206,
+				113,
+				0
+			]
+		],
+		[
+			"guns",
+			"tankman",
+			[
+				206,
+				113,
+				0
+			]
+		],
+		[
+			"stress",
+			"tankman",
+			[
+				206,
+				113,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 7b",
+	"hiddenUntilUnlocked": false
+}
